@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="result">0</string>
+    <string name="convert">Конвертировать</string>
+</resources>
